@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CSV2SPOnline.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SiteURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://avsesramesh:9999/sites/SmartHUb/ECForms/</Value>
+    </Setting>
+    <Setting Name="ListName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Employee Details</Value>
+    </Setting>
+    <Setting Name="FilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\guptases\Desktop\New folder\Test_data.xlsx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
